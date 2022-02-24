@@ -1,0 +1,9 @@
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\bin\Debug\PointLib.dll
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\bin\Debug\PointLib.pdb
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\bin\Debug\PointLib.xml
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\obj\Debug\PointLib.Resources.resources
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\obj\Debug\PointLib.vbproj.GenerateResource.cache
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\obj\Debug\PointLib.vbproj.CoreCompileInputs.cache
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\obj\Debug\PointLib.dll
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\obj\Debug\PointLib.xml
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointLib\obj\Debug\PointLib.pdb

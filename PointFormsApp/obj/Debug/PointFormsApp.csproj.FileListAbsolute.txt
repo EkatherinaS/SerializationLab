@@ -1,0 +1,16 @@
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.csproj.AssemblyReference.cache
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.PointForm.resources
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.Properties.Resources.resources
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.csproj.GenerateResource.cache
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.csproj.CoreCompileInputs.cache
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\PointFormsApp.exe.config
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\PointFormsApp.exe
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\PointFormsApp.pdb
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\Newtonsoft.Json.dll
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\PointLib.dll
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\PointLib.pdb
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\PointLib.xml
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\bin\Debug\Newtonsoft.Json.xml
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.csproj.CopyComplete
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.exe
+D:\Катя\2 курс\Software Ingeneering\Lab 2\Lab 2\PointFormsApp\obj\Debug\PointFormsApp.pdb
